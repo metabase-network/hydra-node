@@ -14,6 +14,7 @@
     "keythereum": "^1.0.4",
     "leveldown": "^4.0.1",
     "levelup": "^4.0.0",
+    "merkletreejs": "0.0.22",
     "net": "^1.0.2",
     "path": "^0.12.7",
     "smokesignal": "^0.2.2",
